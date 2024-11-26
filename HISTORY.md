@@ -1,3 +1,10 @@
+v2.3.2
+==================
+* Updated version of px-datetime-common to https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.3
+* Updated version of px-datetime-field to https://github.com/ServiceMax-Engineering/px-datetime-field.git#2.2.3
+* Updated version of px-calendar-picker to https://github.com/ServiceMax-Engineering/px-calendar-picker.git#2.0.11
+
+
 v2.3.1
 ==================
 * Updated version of px-datetime-common to https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.2

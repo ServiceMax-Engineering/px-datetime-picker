@@ -1,6 +1,6 @@
 {
   "name": "px-datetime-picker",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "main": [
     "px-datetime-picker.html"
   ],
@@ -27,9 +27,9 @@
   ],
   "dependencies": {
     "polymer": "#1.9 - 2",
-    "px-datetime-field": "git+https://github.com/ServiceMax-Engineering/px-datetime-field.git#2.2.2",
-    "px-calendar-picker": "git+https://github.com/ServiceMax-Engineering/px-calendar-picker.git#2.0.10",
-    "px-datetime-common": "git+https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.2",
+    "px-datetime-field": "git+https://github.com/ServiceMax-Engineering/px-datetime-field.git#2.2.3",
+    "px-calendar-picker": "git+https://github.com/ServiceMax-Engineering/px-calendar-picker.git#2.0.11",
+    "px-datetime-common": "git+https://github.com/ServiceMax-Engineering/px-datetime-common.git#3.3.3",
     "iron-a11y-keys-behavior": "^2.0.0",
     "iron-dropdown": "^2.0.0",
     "iron-media-query": "^2.0.0",
